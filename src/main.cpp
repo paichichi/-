@@ -1,6 +1,15 @@
 #include <iostream>
+using namespace std;
+
+void showMenu() {
+
+};
 
 int main() {
-    std::cout << "Hello, World!" << std::endl;
+
+    showMenu();
+
+
+    system("pause");
     return 0;
 }
